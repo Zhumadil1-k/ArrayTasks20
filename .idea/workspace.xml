@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bf6ac72-590e-4577-b459-216fc0cee893" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zhumadil1-k&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zhumadil1-k/project.git&quot;,
+    &quot;accountId&quot;: &quot;2383e46f-d3a9-4c39-a783-c8614d3b6c7c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="38ruLz1RIi19O0qMZRhfF9TG5cX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array10Task.executor": "Run",
+    "Application.Array11Task.executor": "Run",
+    "Application.Array12Task.executor": "Run",
+    "Application.Array13Task.executor": "Run",
+    "Application.Array14Task.executor": "Run",
+    "Application.Array15Task.executor": "Run",
+    "Application.Array16Task.executor": "Run",
+    "Application.Array17Task.executor": "Run",
+    "Application.Array18Task.executor": "Run",
+    "Application.Array19Task.executor": "Run",
+    "Application.Array1Task.executor": "Run",
+    "Application.Array20Task.executor": "Run",
+    "Application.Array2Task.executor": "Run",
+    "Application.Array3Task.executor": "Run",
+    "Application.Array4Task.executor": "Run",
+    "Application.Array5Task.executor": "Run",
+    "Application.Array6Task.executor": "Run",
+    "Application.Array7Task.executor": "Run",
+    "Application.Array8Task.executor": "Run",
+    "Application.Array9Task.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/niazb/OneDrive/Рабочий стол/project",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bf6ac72-590e-4577-b459-216fc0cee893" name="Changes" comment="" />
+      <created>1769569958819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769569958819</updated>
+    </task>
+    <task id="LOCAL-00001" summary="committing 20 tasks">
+      <option name="closed" value="true" />
+      <created>1770000199700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770000199700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committing 20 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing 20 tasks" />
+  </component>
+</project>
